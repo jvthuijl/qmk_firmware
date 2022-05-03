@@ -2,7 +2,7 @@
 MCU = atmega32u4
 
 # Bootloader selection
-BOOTLOADER = atmel-dfu
+BOOTLOADER = caterina
 
 # Build Options
 #   change yes to no to disable
@@ -19,3 +19,7 @@ UNICODE_ENABLE = yes        # Unicode
 AUDIO_ENABLE = no           # Audio output
 SPLIT_KEYBOARD = yes        # Use shared split_common code
 LAYOUTS = split_3x5_2
+TAP_DANCE_ENABLE = yes      # Tap dance
+COMBO_ENABLE = yes	    # Combos
+LTO_ENABLE = yes	    # Optimization
+LEADER_ENABLE = yes         # Leader key
