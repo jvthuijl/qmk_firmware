@@ -1,5 +1,5 @@
-/* ENDO Katsuhiro <ka2hiro@curlybracket.co.jp> David Philip Barr <@davidphilipbarr>
- * Pierre Chevalier <pierrechevalier83@gmail.com>
+/*
+ * Jasper van Thuijl <jaspervanthuijl@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,10 +16,6 @@
  */
 
 #include QMK_KEYBOARD_H
-
-/* Base layer 0 layout uses home row mods. See the following guide for details:
- * https://precondition.github.io/home-row-mods
- */
 
 enum layers {
     _QWERTY,
