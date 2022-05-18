@@ -22,4 +22,4 @@ LAYOUTS = split_3x5_2
 TAP_DANCE_ENABLE = yes      # Tap dance
 COMBO_ENABLE = yes	    # Combos
 LTO_ENABLE = yes	    # Optimization
-LEADER_ENABLE = yes         # Leader key
+LEADER_ENABLE = yes          # Leader key
