@@ -20,19 +20,19 @@
 #pragma once
 
 // Pick good defaults for enabling homerow modifiers
-#define COMBO_TERM 30
-#define TAPPING_TERM 200
+//#define COMBO_TERM 30
+#define TAPPING_TERM 180
 
 // Prevent normal rollover on alphas from accidentally triggering mods.
 #define IGNORE_MOD_TAP_INTERRUPT
 
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
-#define TAPPING_FORCE_HOLD
+//#define TAPPING_FORCE_HOLD
 
-//#define PERMISSIVE_HOLD
+#define PERMISSIVE_HOLD
 
 // define combo count
-#define COMBO_COUNT 7
+//#define COMBO_COUNT 7
 
 // leader key timing
 #define LEADER_PER_KEY_TIMING
