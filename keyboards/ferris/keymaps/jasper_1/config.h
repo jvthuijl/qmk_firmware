@@ -34,3 +34,5 @@
 // leader key timing
 #define LEADER_PER_KEY_TIMING
 #define LEADER_TIMEOUT 300
+#define EE_HANDS
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD

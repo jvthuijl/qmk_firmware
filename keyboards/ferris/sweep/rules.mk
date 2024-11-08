@@ -24,3 +24,4 @@ COMBO_ENABLE = no	    # Combos
 LTO_ENABLE = yes	    # Optimization
 LEADER_ENABLE = yes         # Leader key
 DYNAMIC_TAPPING_TERM_ENABLE = yes
+CAPS_WORD_ENABLE = yes
